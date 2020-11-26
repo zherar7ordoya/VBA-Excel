@@ -1,2 +1,3 @@
-# Tribuno
-Scripts en VBA Excel/Access que hice para una empresa periodística.
+# Analizador de Carga de Publicaciones
+
+Script en VBA Excel que hice para una empresa periodística.
